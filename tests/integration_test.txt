@@ -1,0 +1,4 @@
+Tests: data-sync-worker INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 75%
